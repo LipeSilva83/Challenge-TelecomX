@@ -60,6 +60,10 @@ As principais descobertas da análise indicam que os clientes com maior probabil
 * Seaborn   
 ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=seaborn&logoColor=white)
 
+* Numpy
+  
+ ![Numpy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
